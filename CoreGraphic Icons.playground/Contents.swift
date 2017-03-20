@@ -3,9 +3,8 @@
 import UIKit
 import PlaygroundSupport
 
-let containerView = UIView(frame: CGRect(x: 0.0, y: 0.0, width: 400.0, height: 600.0))
-containerView.backgroundColor = UIColor.lightGray.withAlphaComponent(0.4)
-
+let containerView = UIView(frame: CGRect(x: 0.0, y: 0.0, width: 600.0, height: 800.0))
+containerView.backgroundColor = UIColor.white
 var check = CustomCheckIcon(frame: CGRect(origin: CGPoint(x: containerView.center.x - 100, y: containerView.center.y), size: CGSize(width: 100, height: 100)))
 
 check.backgroundColor = UIColor.clear

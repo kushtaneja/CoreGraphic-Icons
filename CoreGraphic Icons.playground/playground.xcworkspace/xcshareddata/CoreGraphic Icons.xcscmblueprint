@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D7CD2AB0C87E67F5C37F9CE46EF1C97C3A3AB64B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D7CD2AB0C87E67F5C37F9CE46EF1C97C3A3AB64B" : 9223372036854775807,
+    "2CA3E31D48F2B8E3AAED7BD27CFBFB5156E01AEE" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2FA9F027-85F1-4015-808E-AC6633BD4287",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D7CD2AB0C87E67F5C37F9CE46EF1C97C3A3AB64B" : "CoreGraphic%20Icons\/",
+    "2CA3E31D48F2B8E3AAED7BD27CFBFB5156E01AEE" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CoreGraphic Icons",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CoreGraphic Icons.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/uraimo\/Awesome-Swift-Playgrounds",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2CA3E31D48F2B8E3AAED7BD27CFBFB5156E01AEE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kushtaneja\/CoreGraphic-Icons",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D7CD2AB0C87E67F5C37F9CE46EF1C97C3A3AB64B"
+    }
+  ]
+}
